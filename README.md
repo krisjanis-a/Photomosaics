@@ -1,6 +1,6 @@
 # Photomosaics
 
-Creates photomosaics from source image palette
+Creates photomosaics from source image palette (not included in the repository - must create locally)
 
 Input image:
 
